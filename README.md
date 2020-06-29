@@ -5,15 +5,15 @@
 Algorithms:
 
 - Graph
-  - [Breadth First Search]()
-  - [Depth First Search]()
+  - [Breadth First Search](https://github.com/tranthanh95/graph_theory/graph/bfs)
+  - [Depth First Search](https://github.com/tranthanh95/graph_theory/graph/dfs)
 
 Data structures:
 
-- [Bag]()
-- [Graph]()
-- [Queue]()
-- [Stack]()
+- [Bag](https://github.com/tranthanh95/graph_theory/bag)
+- [Graph](https://github.com/tranthanh95/graph_theory/graph)
+- [Queue](https://github.com/tranthanh95/graph_theory/queue)
+- [Stack](https://github.com/tranthanh95/graph_theory/stack)
 
   Complexity
 
